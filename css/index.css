@@ -557,4 +557,5 @@ header > .collapsible-header{
     opacity: 1;
 }
 
-
+footer{ text-align:center; padding:22px 5% 30px; color:#9ca3af; font-size:.9rem; border-top:1px solid rgba(255,255,255,.12); }
+footer a{ color:#9ca3af; margin:0 10px; }
